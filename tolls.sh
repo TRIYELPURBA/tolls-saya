@@ -1,16 +1,10 @@
-#!/bin/bash
-#version 1.0
-
-#MAU NGAPAIN TOT?:V
-#RECODE?REEDIT?RECOPYRIGHT?COPAS?
-#MALU TOLOL!!!
-#KAGA BERMORAL!
-
-
-#01/08/18
 
 clear
-# Variables
+pkg install ruby 
+gem install lolcat 
+
+clear 
+
 b='\033[1m'
 u='\033[4m'
 bl='\E[30m'
@@ -41,7 +35,7 @@ echo -b "JUMLAH     : 311 Tools  " | lolcat
 echo -b "H@CKER    : ANONYMOUS  $green " |lolcat       
 echo -b "_____________________________________________________________" | lolcat
 
-sleep 1
+sleep 1 
 
 echo ""
 echo ""
