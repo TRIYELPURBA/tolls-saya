@@ -1,4 +1,6 @@
-# tolls-saya
+# HACKER TOLLS
 sebelum tollsnya 
-harus install.sh
-kalok ngak bisa ngak work
+INSTALL DULU 
+$ pkg install ruby 
+$ pkg install figlet 
+$ gem install lolcat 
