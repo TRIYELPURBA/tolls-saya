@@ -26,49 +26,27 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TOOLSS  | lolcat
+figlet TOOLS H@CKER   | lolcat
+
+clear 
+
+figlet WELCOME TO MY TOOLS  | lolcat
+
+clear 
+
+figlet   SILAKAN PILIH TOOLS NYA    | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "CYBER     : ROOT $green " |lolcat
-echo -b "NOTES     : JELAJAHI SETIAP TOOLS DENGAN BIJAK " | lolcat
+echo -b "JUMLAH     : 311 Tools  " | lolcat
+echo -b "H@CKER    : ANONYMOUS  $green " |lolcat       
 echo -b "_____________________________________________________________" | lolcat
 
 sleep 1
-
-###################################################
-# CTRL + C
-###################################################
-trap ctrl_c INT
-ctrl_c() {
-clear
-echo -b $green"[#]> TOLONG SABAR " |lolcat
-echo -b $green"[#]> Thanks For Using My Tools" |lolcat
-sleep 1
- 
-clear
- 
-echo -b $green"[#]> SELAMAT JUMPA LAGI :)..." |lolcat
-figlet TOOLS | lolcat
-sleep 1
-exit
-}
-
-
-lagi=1
-while [ $lagi -lt 6 ];
-do
-
-clear
-
-figlet WELCOME MY TOOLSS  | lolcat
-
 
 echo ""
 echo ""
-
 echo -e "######################################" | lolcat
-echo -e "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
+echo -e "#TOOLS_NYA_ADA_311_TOLLS TOLONG SABAR#" | lolcat
 echo -e "######################################" | lolcat
 
 echo ""
@@ -695,8 +673,8 @@ echo -e $b "311. Install Cc-Cheker${enda}";
 echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
-echo -e "?-[PILIH NOMORNYA]"
-read -p "   ?-root@./cyberteam=" pil;
+echo -e "╭─[PILIH NOMORNYA]"
+read -p "   ╰─root@/H@CKER INDONESIA =" pil;
 
 # Nmap
 
@@ -2983,19 +2961,13 @@ echo -e "${y} SUDAH TERINSTALL.."
 311) git clone https://github.com/br0keh/cc-checker
 echo -e "${y} SUDAH TERINSTALL.."
 
+
 ;;
 
-00) echo "CYBER ROOT" | lolcat
-
-figlet TOLLS | lolcat
-
-exit
-;;
-
-*) echo "Sorry, Your choices it's not already [CYBER ROOT]"
+*) echo "Sorry, Your choices it's not already [T4T]"
 esac
 done
 done
 
-#[081376580015]
-#[TRIYEL PURBA]
+#[081221215191]
+#[ANONYMOUS INDONESIA ]
