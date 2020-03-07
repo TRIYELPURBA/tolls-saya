@@ -1,20 +1,6 @@
-#!/bin/bash
-
-#MAU NGAPAIN TOT?:V
-#RECODE?REEDIT?RECOPYRIGHT?COPAS?
-#MALU TOLOL!!!
-#KAGA BERMORA
 
 clear
 
-pkg install figlet
-pkg install ruby 
-gem install lolcat 
-
-
-clear 
-
-# Variables
 b='\033[1m'
 u='\033[4m'
 bl='\E[30m'
