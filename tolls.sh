@@ -1,15 +1,19 @@
 #!/bin/bash
-#version 1.0
 
 #MAU NGAPAIN TOT?:V
 #RECODE?REEDIT?RECOPYRIGHT?COPAS?
 #MALU TOLOL!!!
-#KAGA BERMORAL!
-
-
-#01/08/18
+#KAGA BERMORA
 
 clear
+
+pkg install figlet
+pkg install ruby 
+gem install lolcat 
+
+
+clear 
+
 # Variables
 b='\033[1m'
 u='\033[4m'
